@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="30.979212" inkscape:export-xdpi="30.979212" inkscape:export-filename="/home/robert/devel/android/ux/All_ICS_Icons.png" sodipodi:docname="All_ICS_Icons.svg" inkscape:version="0.48.2 r9819"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px" height="120px"
+	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g id="g540" transform="translate(-399.61776,-352.78844)">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="399.618" y="352.788" width="120" height="120"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g id="g542" clip-path="url(#SVGID_2_)">
+			<g id="g548" transform="translate(47.9707,61.9512)">
+				<path id="path550" inkscape:connector-curvature="0" fill="#333333" d="M411.61,333.399
+					c-9.627,0.016-17.423,7.841-17.407,17.474c0.02,9.629,7.847,17.424,17.476,17.401c9.629-0.017,17.427-7.839,17.405-17.469
+					C429.072,341.172,421.247,333.377,411.61,333.399"/>
+			</g>
+			<g id="g552" transform="translate(48.0391,25.0547)">
+				<path id="path554" inkscape:connector-curvature="0" fill="#333333" d="M411.628,416.415
+					c-15.817,0.031-28.706-12.81-28.733-28.626c-0.035-15.82,12.809-28.715,28.626-28.746c15.82-0.03,28.717,12.814,28.744,28.636
+					C440.299,403.495,427.446,416.387,411.628,416.415 M455.508,385.165l-10.406,0.018c-1.25-16.575-14.524-29.798-31.104-30.986
+					l-0.021-10.412l-4.972,0.007l0.02,10.417c-16.571,1.252-29.795,14.526-30.981,31.104l-10.413,0.022l0.008,4.965l10.41-0.019
+					c1.256,16.572,14.531,29.792,31.109,30.981l0.016,10.422l4.971-0.007l-0.022-10.423c16.575-1.253,29.795-14.526,30.989-31.106
+					l10.414-0.016L455.508,385.165z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

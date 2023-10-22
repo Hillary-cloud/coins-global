@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
 <?php include('../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -151,7 +151,7 @@
 
           form.onSuccess(function(vals, tyURL) {
             GetDetails("FY23-P12-SCS-WEB-BOF-Contact-CONS-NB-COINS-UK");
-            location.href = "https://www.coins-global.com/form-submitted/2583/";
+            location.href = "https://www.coinsinvestment.io/form-submitted/2583/";
             return false;
           });
         });

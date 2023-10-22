@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/coinsinvestment.io/"> -->
 <?php include('../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -161,7 +161,7 @@
             </table>
             <p>&nbsp;</p>
             <h2>How we use cookies on the COINS Users Conference website</h2>
-            <p>The Users Conference website <a href="https://conference.coins-global.com/" target="_blank" rel="noopener">conference.coins-global.com</a> uses cookies to improve the website experience, for user preferences, and for tracking interest and IT technical support.</p>
+            <p>The Users Conference website <a href="https://conference.coinsinvestment.io/" target="_blank" rel="noopener">conference.coinsinvestment.io</a> uses cookies to improve the website experience, for user preferences, and for tracking interest and IT technical support.</p>
             <p>The following table lists the cookies that are in use</p>
             <table border="0" width="80%">
               <tbody>

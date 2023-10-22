@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
 <?php include('../../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -54,7 +54,7 @@
           <p>If you believe you have found a security issue that meets COINS definition of a vulnerability, please submit a report to our security team via one of the methods below:</p>
           <ul>
             <li>If you are a client:<br>Submit a <a href="https://coins-global.my.salesforce.com/" target="_blank" rel="noopener">support ticket</a> to our Customer Services team<br>&nbsp;</li>
-            <li>If you are a security researcher:<br>Email: <a href="mailto:security@coins-global.com">security@coins-global.com</a></li>
+            <li>If you are a security researcher:<br>Email: <a href="mailto:security@coinsinvestment.io">security@coinsinvestment.io</a></li>
           </ul>
           <p><strong>Please include the following information in your report:</strong></p>
           <ul>

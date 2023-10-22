@@ -1,21 +1,22 @@
 <!DOCTYPE HTML>
 <html lang="en-gb">
 
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" data-ccd_software="cp" data-ccd_version="7.18.4633-58d6c44" data-ccd_server_alias="coins" data-ccd_base_url="https://www.coins-global.com/" data-ccd_debug_mode="false" data-ccd_ext_alw="false">
-  <link rel="canonical" href="index.htm">
-  <link rel="alternate" hreflang="x-default" href="index.htm">
-  <link rel="alternate" hreflang="en" href="index.htm">
-  <link rel="alternate" hreflang="en-gb" href="index.htm">
-  <link rel="alternate" hreflang="en-us" href="us/index.htm">
-  <link rel="alternate" hreflang="en-au" href="apac/index.htm">
-  <link rel="alternate" hreflang="en-ae" href="uaen/index.htm">
-  <base href="http://localhost/www.coins-global.com/" />
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" data-ccd_software="cp" data-ccd_version="7.18.4633-58d6c44" data-ccd_server_alias="coins" data-ccd_base_url="https://www.coinsinvestment.io/" data-ccd_debug_mode="false" data-ccd_ext_alw="false">
+  <link rel="canonical" href="index.php">
+  <link rel="alternate" hreflang="x-default" href="index.php">
+  <link rel="alternate" hreflang="en" href="index.php">
+  <link rel="alternate" hreflang="en-gb" href="index.php">
+  <link rel="alternate" hreflang="en-us" href="us/index.php">
+  <link rel="alternate" hreflang="en-au" href="apac/index.php">
+  <link rel="alternate" hreflang="en-ae" href="uaen/index.php">
+  <base href="http://localhost/coinsinvestment.io/" />
 
   <title>Leading Construction Software Solutions | COINS Global</title>
-  <!-- Removed by WebCopy --><!--<base href='https://www.coins-global.com/'>--><!-- Removed by WebCopy -->
+  <!-- Removed by WebCopy --><!--<base href='https://www.coinsinvestment.io/'>--><!-- Removed by WebCopy -->
   <meta charset="UTF-8">
   <meta name="format-detection" content="telephone=no">
   <meta name="referrer" content="strict-origin-when-cross-origin">
+  
   <script>
     var CPO_DEBUG = false;
   </script>
@@ -373,7 +374,7 @@
   <meta name="keywords" content="construction software">
   <meta property="og:title" content="Leading Construction Software Solutions">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.coins-global.com/">
+  <meta property="og:url" content="https://www.coinsinvestment.io/">
   <meta property="og:site_name" content="COINS Global">
   <meta name="twitter:site" content="@coinsglobal">
   <meta name="twitter:creator" content="@coinsglobal">
@@ -382,10 +383,10 @@
   <meta property="og:description" content="Construction software built for the construction industry. Control all aspects of your construction business with COINS integrated construction solutions and apps. ">
   <meta property="twitter:description" content="Construction software built for the construction industry. Control all aspects of your construction business with COINS integrated construction solutions and apps. ">
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="https://www.coins-global.com/storage/images-processed/w-1200_h-630_m-crop__coins_og_2017.jpg">
+  <meta property="og:image" content="https://www.coinsinvestment.io/storage/images-processed/w-1200_h-630_m-crop__coins_og_2017.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta name="twitter:image" content="https://www.coins-global.com/storage/images-processed/w-1200_h-630_m-crop__coins_og_2017.jpg">
+  <meta name="twitter:image" content="https://www.coinsinvestment.io/storage/images-processed/w-1200_h-630_m-crop__coins_og_2017.jpg">
   <meta property="twitter:image:width" content="1200">
   <meta property="twitter:image:height" content="630">
 
@@ -393,23 +394,23 @@
 
   <script>
     var CP_HTTP_PROTOCOL = 'https';
-    var CP_DOMAIN = 'www.coins-global.com';
+    var CP_DOMAIN = 'www.coinsinvestment.io';
     var CP_ROOT_NO_SLASH = '';
     var CP_ROOT = '/';
-    var CP_BASE_URL = 'https://www.coins-global.com/';
-    var CP_BASE_URL_NO_SLASH = 'https://www.coins-global.com';
-    var CP_CA_LOGIN_URL = 'https://www.coins-global.com/';
-    var CP_CA_LOGIN_URL_REDIRECT = 'https://www.coins-global.com/?skipto=https%3A%2F%2Fwww.coins-global.com%2F';
+    var CP_BASE_URL = 'https://www.coinsinvestment.io/';
+    var CP_BASE_URL_NO_SLASH = 'https://www.coinsinvestment.io';
+    var CP_CA_LOGIN_URL = 'https://www.coinsinvestment.io/';
+    var CP_CA_LOGIN_URL_REDIRECT = 'https://www.coinsinvestment.io/?skipto=https%3A%2F%2Fwww.coinsinvestment.io%2F';
 
     //legacy
-    var cBase = 'https://www.coins-global.com/';
+    var cBase = 'https://www.coinsinvestment.io/';
     var CPO_H = '',
       CPO_H_SLASH = '',
       CPO_SLASH_H = '';
     var CPO_ROOT = '/';
     var CPO_ROOT_H = '';
     var CP_ROOT_NO_SLASH = '';
-    var ROOT_H = 'https://www.coins-global.com';
+    var ROOT_H = 'https://www.coinsinvestment.io';
 
     var imgKey = '198141774556c3484533f2206c0da65f';
     var cUrlCa = cBase + '';
@@ -486,7 +487,7 @@
       detectPlugins: false
     });
     var CP_ROOT = '/';
-    var SITE_ROOT = 'https://www.coins-global.com/';
+    var SITE_ROOT = 'https://www.coinsinvestment.io/';
     var cp_logged_in = false;
     var cp_jobseeker_logged_in = false;
     var cp_employer_logged_in = false;
@@ -506,15 +507,15 @@
     var CP_SHORTCUT = true;
     var CPI_ID_HOME = 21;
     var CPI_ID_CALOGGEDOUT = null;
-    var CPI_ID_CA2PROFILE_URL = 'https://www.coins-global.com/';
+    var CPI_ID_CA2PROFILE_URL = 'https://www.coinsinvestment.io/';
     var CPO_SIGNUP_EMAIL_PWORD_CONFIRM = false;
     var RCO_JOBBASKET = false;
     var RCO_SOCIAL_SIGNUP = false;
     var RCO_SIGNUP_NAME = true;
-    var CPI_ID_JOBADVERT_URL = 'https://www.coins-global.com/';
-    var CPI_ID_JOBADVERTS_URL = 'https://www.coins-global.com/';
-    var CPI_ID_CVS_URL = 'https://www.coins-global.com/';
-    var CPI_ID_CANDIDATES_URL = 'https://www.coins-global.com/';
+    var CPI_ID_JOBADVERT_URL = 'https://www.coinsinvestment.io/';
+    var CPI_ID_JOBADVERTS_URL = 'https://www.coinsinvestment.io/';
+    var CPI_ID_CVS_URL = 'https://www.coinsinvestment.io/';
+    var CPI_ID_CANDIDATES_URL = 'https://www.coinsinvestment.io/';
     var CA2_NUM_JOBS = '';
     var CA2_NUM_CANDIDATES = '';
     var RCO_EMAIL_ALERTS_NEW = 'true';
@@ -527,7 +528,7 @@
     var RCO_JOB_APPLY_TRACKING_CODE = null;
     var RCO_LIVESEARCH_DEFAULT_DISTANCE = 5;
     var launchApply = 0;
-    var rc_profileSetupURL = 'https://www.coins-global.com//-/262/';
+    var rc_profileSetupURL = 'https://www.coinsinvestment.io//-/262/';
     var ELEMENT_SET_ID = '';
     var ELEMENT_CPDA_ID = '';
     var from_job_basket_apply = false;
@@ -650,17 +651,17 @@
             </form>
           </div>
           <div class="email-icon header-cell">
-            <a href="mailto:info@coins-global.com"></a>
+            <a href="mailto:info@coinsinvestment.io"></a>
           </div>
           <div class="btnNew flat orange bub"><a href="bookademo/s166026/index.php">
               <p>See Software in Action</p>
             </a></div>
           <ul class="language-picker header-cell">
             <ul class="cpLanguagePicker">
-              <li class=" on hasTranslation langID-1999"><a href="https://www.coins-global.com/">UK & IE</a></li>
-              <li class=" hasTranslation langID138"><a href="https://www.coins-global.com/us/">USA</a></li>
-              <li class=" hasTranslation langID140"><a href="https://www.coins-global.com/apac/">Australia</a></li>
-              <li class=" hasTranslation langID3050"><a href="https://www.coins-global.com/uaen/">Middle East</a></li>
+              <li class=" on hasTranslation langID-1999"><a href="https://www.coinsinvestment.io/">UK & IE</a></li>
+              <li class=" hasTranslation langID138"><a href="https://www.coinsinvestment.io/us/">USA</a></li>
+              <li class=" hasTranslation langID140"><a href="https://www.coinsinvestment.io/apac/">Australia</a></li>
+              <li class=" hasTranslation langID3050"><a href="https://www.coinsinvestment.io/uaen/">Middle East</a></li>
             </ul>
 
           </ul>
@@ -668,13 +669,14 @@
       </div>
       <div class="header-row">
         <div class="header-row-left">
-          <a href="https://www.coins-global.com/">
+          <a href="https://www.coinsinvestment.io/">
             <img class="header-logo" src="style/images/Access_Coins_Dark.png" alt="COINS - Construction Industry Solutions Logo" width="136px"> </a>
         </div>
         <div class="header-row-right">
           <!--standard pagetop menu start -->
           <ul class="pageTopDivMenu">
             <li class="pagetopMenuItemCpiId21 pagetopMenuItemTopLevel" id="pagetopMenuItem1"><a href='index.php'>Home</a></li>
+            <li class="pagetopMenuItemCpiId21 pagetopMenuItemTopLevel" id="pagetopMenuItem1"><a href='pricing.php'>Pricing</a></li>
             <li class="pagetopMenuItemCpiId1940 pagetopMenuItemTopLevel" id="pagetopMenuItem2"><a href='company/about-coins/1939/index.php'>Company</a></li>
             <li class="pagetopMenuItemCpiId47 pagetopMenuItemTopLevel" id="pagetopMenuItem3"><a href='solutions/47/index.php'>Solutions</a></li>
             <li class="pagetopMenuItemCpiId3021 pagetopMenuItemTopLevel" id="pagetopMenuItem4"><a href='case-studies/3021/index.php'>Case Studies</a></li>

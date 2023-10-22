@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
 <?php include('../../php/header.php');?>
 <!-- End Desktop Header HTML -->
 
@@ -86,7 +86,7 @@
             <p>Please include your name, address, and/or e-mail address when you contact us.</p>
             <p><strong> Name &amp; Address: <br> </strong> Construction Industry Solutions <br> COINS Building <br> 11
               St Laurence Way <br> Slough <br> Berkshire <br> SL1 2EA</p>
-            <p>E:&nbsp;&nbsp; <a href="mailto:info@coins-global.com"> info@coins-global.com </a> <br> Company No.
+            <p>E:&nbsp;&nbsp; <a href="mailto:info@coinsinvestment.io"> info@coinsinvestment.io </a> <br> Company No.
               02039252</p>
             <p>Other locations are listed on the&nbsp;Contact page&nbsp;of this website.</p>
             <p>&nbsp;</p>
@@ -101,5 +101,4 @@
   <div class="push"></div>
 </div>
 </div>
-<base href="http://localhost/www.coins-global.com/">
 <?php include('../../php/footer.php');?>

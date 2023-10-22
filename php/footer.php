@@ -15,7 +15,7 @@
                 <p class="footTitle">Company</p>
               </li>
               <li>
-                <a href="https://www.coins-global.com/" class="lineEx">
+                <a href="https://www.coinsinvestment.io/" class="lineEx">
                   Home </a>
               </li>
               <li>
@@ -144,7 +144,7 @@
         <div class="footRight fd">
           <div class="footSocial">
             <div class="footLogo fd">
-              <a href="https://www.coins-global.com/">
+              <a href="https://www.coinsinvestment.io/">
 
                 <img class="header-logo" src="style/images/Access_Coins_Dark.png" alt="COINS - Construction Industry Solutions Logo" width="136px"> </a>
             </div>
@@ -504,7 +504,7 @@
           var p_id = data.SYP_ID;
           var u_id = data.SYU_CA_ID;
           if (u_id != '' || p_id != '') {
-            lcUrl = 'https://www.coins-global.com/cp_clockit.php?type=' + type + '&id=' + id + '&source=' + cpsb_id + '&criteria=' + p_id;
+            lcUrl = 'https://www.coinsinvestment.io/cp_clockit.php?type=' + type + '&id=' + id + '&source=' + cpsb_id + '&criteria=' + p_id;
             $.ajax({
               url: lcUrl,
               cache: false,
@@ -524,7 +524,7 @@
     }
 
     function openDocviewWin(type, id) {
-      var url = 'https://www.coins-global.com/cp_viewdoc.php?type=' + type + '&id=' + id;
+      var url = 'https://www.coinsinvestment.io/cp_viewdoc.php?type=' + type + '&id=' + id;
       window.location.href = url;
     }
   </script>
@@ -590,8 +590,8 @@
     {
       "@context": "http:\/\/schema.org",
       "@type": "",
-      "url": "https:\/\/www.coins-global.com\/",
-      "logo": "https:\/\/www.coins-global.com\/storage\/images\/bullet_point_logo.svg",
+      "url": "https:\/\/www.coinsinvestment.io\/",
+      "logo": "https:\/\/www.coinsinvestment.io\/storage\/images\/bullet_point_logo.svg",
       "sameAs": ["", "", "", "", ""]
     }
   </script>

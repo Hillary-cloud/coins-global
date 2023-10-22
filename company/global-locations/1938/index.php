@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
 <?php include('../../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -331,8 +331,8 @@
                                 <div class="articleCont">
                                     <a style="display: block" href="tel:+44 1753 501000" class="locPhone">
                                         T: +44 1753 501000 </a>
-                                    <a style="display: block" href="mailto:info@coins-global.com" class="locEmail">
-                                        info@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info@coinsinvestment.io" class="locEmail">
+                                        info@coinsinvestment.io </a>
                                     <p>Construction Industry Solutions Ltd <br>
                                         COINS Building <br>
                                         11 St Laurence Way <br>
@@ -360,8 +360,8 @@
                                         T: +1 518 242 7200 </a>
                                     <a style="display: block" href="tel:+1 518 242 7298" class="locFax">
                                         F: +1 518 242 7298 </a>
-                                    <a style="display: block" href="mailto:coinsusa@coins-global.com" class="locEmail">
-                                        coinsusa@coins-global.com </a>
+                                    <a style="display: block" href="mailto:coinsusa@coinsinvestment.io" class="locEmail">
+                                        coinsusa@coinsinvestment.io </a>
                                     <p>Construction Industry Solutions Corp.<br>
                                         COINS Building<br>
                                         6 Airport Park Blvd.<br>
@@ -388,8 +388,8 @@
                                         T: 1300 214 750 </a>
                                     <a style="display: block" href="tel:+61 7 3147 8241" class="locFax">
                                         F: +61 7 3147 8241 </a>
-                                    <a style="display: block" href="mailto:info.au@coins-global.com" class="locEmail">
-                                        info.au@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info.au@coinsinvestment.io" class="locEmail">
+                                        info.au@coinsinvestment.io </a>
                                     <p>Building No 3<br>
                                         Freeway Office Park<br>
                                         2728 Logan Road<br>
@@ -415,8 +415,8 @@
                                 <div class="articleCont">
                                     <a style="display: block" href="tel:+971 4 346 7754" class="locPhone">
                                         T: +971 4 346 7754 </a>
-                                    <a style="display: block" href="mailto:info.mena@coins-global.com" class="locEmail">
-                                        info.mena@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info.mena@coinsinvestment.io" class="locEmail">
+                                        info.mena@coinsinvestment.io </a>
                                     <p>PO Box 119539<br>
                                         Dubai<br>
                                         United Arab Emirates<br>
@@ -441,8 +441,8 @@
                                 <div class="articleCont">
                                     <a style="display: block" href="tel:+1 214 561 8630" class="locPhone">
                                         T: +1 214 561 8630 </a>
-                                    <a style="display: block" href="mailto:info.us@coins-global.com" class="locEmail">
-                                        info.us@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info.us@coinsinvestment.io" class="locEmail">
+                                        info.us@coinsinvestment.io </a>
                                     <p>Construction Industry Solutions Corp.<br>
                                         15851 Dallas Pkwy<br>
                                         Suite 600<br>
@@ -469,8 +469,8 @@
                                         T: +1 518 242 7200 </a>
                                     <a style="display: block" href="tel:+1 518 242 7298" class="locFax">
                                         F: +1 518 242 7298 </a>
-                                    <a style="display: block" href="mailto:coinsusa@coins-global.com" class="locEmail">
-                                        coinsusa@coins-global.com </a>
+                                    <a style="display: block" href="mailto:coinsusa@coinsinvestment.io" class="locEmail">
+                                        coinsusa@coinsinvestment.io </a>
                                     <p>Construction Industry Solutions Corp.<br>
                                         2140 North Prospect Ave<br>
                                         Milwaukee , WI 53202</p>
@@ -496,8 +496,8 @@
                                         T: 1300 214 750 </a>
                                     <a style="display: block" href="tel:+61 7 3147 8241" class="locFax">
                                         F: +61 7 3147 8241 </a>
-                                    <a style="display: block" href="mailto:info.au@coins-global.com" class="locEmail">
-                                        info.au@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info.au@coinsinvestment.io" class="locEmail">
+                                        info.au@coinsinvestment.io </a>
                                     <p>Suite 322, 4 Columbia Court<br>
                                         Norwest Business Park<br>
                                         Baulkham Hills, NSW Australia<br>
@@ -522,8 +522,8 @@
                                 <div class="articleCont">
                                     <a style="display: block" href="tel:+353 21 494 7400" class="locPhone">
                                         T: +353 21 494 7400 </a>
-                                    <a style="display: block" href="mailto:info@coins-global.com" class="locEmail">
-                                        info@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info@coinsinvestment.io" class="locEmail">
+                                        info@coinsinvestment.io </a>
                                     <p>The Access Group - Cork<br>
                                         Unit 2302<br>
                                         3rd Floor Building 2000<br>
@@ -551,8 +551,8 @@
                                 <div class="articleCont">
                                     <a style="display: block" href="tel:+44 (0) 845 345 3300" class="locPhone">
                                         T: +44 (0) 845 345 3300 </a>
-                                    <a style="display: block" href="mailto:info@coins-global.com" class="locEmail">
-                                        info@coins-global.com </a>
+                                    <a style="display: block" href="mailto:info@coinsinvestment.io" class="locEmail">
+                                        info@coinsinvestment.io </a>
                                     <p>Access UK ltd<br>
                                         The Armstrong Building<br>
                                         10 Oakwood Drive<br>

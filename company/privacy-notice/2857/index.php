@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
 <?php include('../../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -245,19 +245,19 @@
               </tbody>
             </table>
             <h3>MARKETING&nbsp;&nbsp;</h3>
-            <p>We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a mechanism whereby you should contact us if you wish to make certain decisions about your personal data use. Please email <a href="mailto:gdpr@coins-global.com">gdpr@coins-global.com</a>.</p>
+            <p>We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a mechanism whereby you should contact us if you wish to make certain decisions about your personal data use. Please email <a href="mailto:gdpr@coinsinvestment.io">gdpr@coinsinvestment.io</a>.</p>
             <h3>MARKETING OFFERS FROM US&nbsp;&nbsp;</h3>
             <p>We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).</p>
             <p>You may receive marketing communications from us if you have requested information from us or purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.</p>
             <h3>THIRD-PARTY MARKETING AND COMMUNICATION</h3>
             <p>Our customers have consented to us using Mailchimp, Constant Contact and/or InWink to send them marketing messages. We will get your express opt-in consent before we share your personal data with any company outside the COINS group of companies for marketing purposes.</p>
             <h3>OPTING OUT&nbsp;&nbsp;&nbsp;</h3>
-            <p>You can ask us or third parties to stop sending you marketing messages at any time by <a href="mailto:gdpr@coins-global.com">Contacting us</a> at any time.</p>
+            <p>You can ask us or third parties to stop sending you marketing messages at any time by <a href="mailto:gdpr@coinsinvestment.io">Contacting us</a> at any time.</p>
             <p>Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.</p>
             <h3>COOKIES&nbsp;&nbsp;</h3>
             <p>You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see the <a href="../../../cookies/2202/index.htm">cookie policy on our website</a>.</p>
             <h3>CHANGE OF PURPOSE&nbsp;&nbsp;</h3>
-            <p>We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please <a href="mailto:gdpr@coins-global.com">Contact us</a>.</p>
+            <p>We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please <a href="mailto:gdpr@coinsinvestment.io">Contact us</a>.</p>
             <p>If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.</p>
             <p>Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.</p>
           </ul>
@@ -294,7 +294,7 @@
               <li>We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data.</li>
               <li>Where we use certain service providers, we may use specific contracts approved for use in the UK which give personal data the same protection it has in the UK.</li>
             </ul>
-            <p>Please <a href="mailto:gdpr@coins-global.com">Contact us</a> if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.</p>
+            <p>Please <a href="mailto:gdpr@coinsinvestment.io">Contact us</a> if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.</p>
           </ul>
         </li>
         <li class="accordian_item8 ">
@@ -335,7 +335,7 @@
             <p><strong>Request restriction of processing</strong> of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data&rsquo;s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.</p>
             <p><strong>Request the transfer</strong> of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.</p>
             <p><strong>Right to withdraw consent&nbsp;</strong>at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent</p>
-            <p>If you wish to exercise any of the rights set out above, please <a href="mailto:gdpr@coins-global.com">Contact us.</a></p>
+            <p>If you wish to exercise any of the rights set out above, please <a href="mailto:gdpr@coinsinvestment.io">Contact us.</a></p>
             <h3>NO FEE USUALLY REQUIRED&nbsp;&nbsp;</h3>
             <p>You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.</p>
             <h3>WHAT WE MAY NEED FROM YOU&nbsp;&nbsp;</h3>

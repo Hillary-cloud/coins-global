@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coins-global.com/"> -->
+﻿<!-- <base href="http://localhost/coinsinvestment.io/"> -->
 <?php include('../../php/header.php');?>
 <!-- End Desktop Header HTML -->
 
@@ -48,8 +48,8 @@
             profitability<br><strong>Build:</strong> Control costs, improve productivity and streamline
             processes<br><strong>Home Sales:</strong> Keep opportunities moving forward, from initial enquiry to
             customer care</p>
-          <p>Alternatively you can email us: <a href="mailto:info@coins-global.com" target="_blank"
-              rel="noopener">info@coins-global.com</a></p>
+          <p>Alternatively you can email us: <a href="mailto:info@coinsinvestment.io" target="_blank"
+              rel="noopener">info@coinsinvestment.io</a></p>
         </div>
         <div class="leftBottom">
           <ul>

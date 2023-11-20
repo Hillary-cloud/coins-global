@@ -23,6 +23,22 @@
 <div class="siteMiddleContainer">
     <div class="siteMiddleInner">
         <!-- B a n n e r --> <!-- E n d  o f  B a n n e r -->
+        <div class="sidebarWrapper" style="margin-top:150px;">
+      <div class="sidebarHeading mainSidebarHeading">
+        <p class='menutitle'>
+          Solutions
+        </p>
+      </div>
+      <ul class="sidebarContentList topLevel">
+      <li class="menuItemCpiId1992 menuItem0"><a href="solutions/47/index.php">Overview</a></li>
+        <li class="menuItemCpiId1993 menuItem1"><a href="solutions/project-delivery/3772/index.php">Project Delivery</a></li>
+        <li class="menuItemCpiId1994 menuItem2"><a href="solutions/finance-and-operations/3771/index.php">Finance and Operations</a></li>
+        <li class="menuItemCpiId1995 menuItem3"><a href="solutions/time-management/3773/index.php">Time Management</a></li>
+        <li class="menuItemCpiId1996 menuItem4 on open"><a href="solutions/supply-chain-management/2985/index.php">Supply Chain Management</a></li>
+        <li class="menuItemCpiId2212 menuItem5"><a href="solutions/service-management/2000/index.php">Service Management</a></li>
+        <div style="clear:both;"></div>
+      </ul>
+    </div>
         <!-- - - - - - - - - - - - - - - C o n t e n t   A r e a  - - - - - - - - - - - - - -->
         <div class="siteContentContainer">
             <div id='NAME' class='cp_pageTitleWrapper'>

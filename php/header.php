@@ -523,18 +523,8 @@
                   <li><a class="dropdown-item text-dark" href="services/support/2212/index.php">Support</a></li>
                 </ul>
               </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle text-dark" href="" role="button" id="navbarDropdown2" data-bs-toggle="dropdown" aria-expanded="false">
-                  Solutions
-                </a>
-                <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarDropdown2" style="background-color: #fff;">
-                  <li><a class="dropdown-item text-dark" href="solutions/47/index.php">Overview</a></li>
-                  <li><a class="dropdown-item text-dark" href="solutions/project-delivery/3772/index.php">Project Delivery</a></li>
-                  <li><a class="dropdown-item text-dark" href="solutions/finance-and-operations/3771/index.php">Finance and Operations</a></li>
-                  <li><a class="dropdown-item text-dark" href="solutions/time-management/3773/index.php">Time Management</a></li>
-                  <li><a class="dropdown-item text-dark" href="solutions/supply-chain-management/2985/index.php">Supply Chain Management</a></li>
-                  <li><a class="dropdown-item text-dark" href="solutions/service-management/2000/index.php">Service Management</a></li>
-                </ul>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="solutions/47/index.php">Solutions</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-dark" href="pricing.php">Pricing</a>

@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
+﻿<!-- <base href="http://coinsinvestment.io/"> -->
 <?php include('../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
@@ -49,7 +49,7 @@
       }
     </style>
 
-    <div class="softwareWrap overview">
+    <div class="softwareWrap overview" style="margin-top: 150px;" >
       <div class="sectionOne">
         <div class="introBox fd">
           <h1>Software to manage all aspects of construction</h1>

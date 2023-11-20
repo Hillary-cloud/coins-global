@@ -2,6 +2,7 @@
 <html lang="en-gb">
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" data-ccd_software="cp" data-ccd_version="7.18.4633-58d6c44" data-ccd_server_alias="coins" data-ccd_base_url="https://www.coinsinvestment.io/" data-ccd_debug_mode="false" data-ccd_ext_alw="false">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <link rel="canonical" href="index.php">
   <link rel="alternate" hreflang="x-default" href="index.php">
   <link rel="alternate" hreflang="en" href="index.php">
@@ -9,6 +10,7 @@
   <link rel="alternate" hreflang="en-us" href="us/index.php">
   <link rel="alternate" hreflang="en-au" href="apac/index.php">
   <link rel="alternate" hreflang="en-ae" href="uaen/index.php">
+
   <base href="http://localhost/coinsinvestment.io/" />
 
   <title>Leading Construction Software Solutions | COINS Global</title>
@@ -16,178 +18,11 @@
   <meta charset="UTF-8">
   <meta name="format-detection" content="telephone=no">
   <meta name="referrer" content="strict-origin-when-cross-origin">
-  
+
   <script>
     var CPO_DEBUG = false;
   </script>
-  <script>
-    var ccd_cookie_allow_list = ["_gat_controlPanel", "ccd_cookie_debug", "ccd_login_token", "ccd_toast", "ccd_version_notify", "PageSpeedFilters", "preview", "cookieconsent_dismissed", "ccd_lang", "ccd_ip_region_code", "{{session_name()}}", "essential_ccd_cookie_pref", "essential_ccd_region", "essential_ccd_region_code", "essential_ccd_theme", "__cfduid", "font_size", "subscription_shown", "wishlist_request", "last_splash_id", "visitor_location_info_v2", "residentPopup", "tp_important_notice", "accessibility-mode", "campaign_splash", "mcg_employer", "googtrans"];
-    var ccd_cookie_bar_html = "<div class=\"ccd_cookie_bar ccd_cookie_bar_custom ccd_cookie_custom\" id=\"ccd_cookie_bar\">\r\n\t<div class=\"ccd_cookie_bar_grid\">\r\n\t\t<p class=\"ccd_cookie_bar_instructions\">This website uses cookies to help us improve your user experience. We never collect personally identifiable information unless explicitly stated. Please click \"Accept All Cookies\" to continue or \"More Info\" to see more information about our usage of cookies. You can also read our <a href=\"cookies\/2202\/\" title=\"Cookie Policy\" target=\"_blank\">Cookie Policy here<\/a>.<\/p>\r\n\t\t<div class=\"ccd_cookie_bar_btn_wrapper ccd_cookie_bar_btn_wrapper_desktop\">\r\n\t\t\t\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_info\" id=\"ccd_cookie_bar_btn_info_desktop\"><p>More Info<\/p><\/div>\r\n\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_accept\" id=\"ccd_cookie_bar_btn_accept_desktop\"><p>Accept All Cookies<\/p><\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n\t<div class=\"ccd_cookie_bar_btn_wrapper ccd_cookie_bar_btn_wrapper_mobile\">\r\n\t\t\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_info\" id=\"ccd_cookie_bar_btn_info_mobile\"><p>More Info<\/p><\/div>\r\n\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_accept\" id=\"ccd_cookie_bar_btn_accept_mobile\"><p>Accept All Cookies<\/p><\/div>\r\n\t<\/div>\r\n\t<div style=\"clear:both;\"><\/div>\r\n<\/div>";
-    var ccd_cookie_info_popup_html = "<div class=\"ccd_cookie_info_popup ccd_cookie_info_popup_custom ccd_cookie_custom loading\" id=\"ccd_cookie_info_popup\">\r\n\t<div class=\"ccd_cookie_info_popup_center_wrapper\">\r\n\t\t<div class=\"ccd_cookie_info_popup_inner\">\r\n\t\t\t<p class=\"ccd_cookie_info_popup_title\">Cookie Information<\/p>\r\n\t\t\t<div class=\"ccd_cookie_info_popup_info_wrapper\" id=\"ccd_cookie_info_popup_info_wrapper\"><\/div>\r\n\t\t\t<div class=\"ccd_cookie_info_popup_btn_wrapper\">\r\n\t\t\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_deny\" id=\"ccd_cookie_info_popup_btn_deny\"><p>Deny Non-Essential Cookies<\/p><\/div>\r\n\t\t\t\t<div class=\"ccd_cookie_bar_btn ccd_cookie_bar_btn_accept\" id=\"ccd_cookie_info_popup_btn_accept\"><p>Accept All Cookies<\/p><\/div>\r\n\t\t\t<\/div>\r\n\t\t\t<div style=\"clear:both;\"><\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>";
 
-    function _classCallCheck(a, b) {
-      if (!(a instanceof b)) throw new TypeError("Cannot call a class as a function")
-    }
-
-    function _defineProperties(a, b) {
-      for (var c, d = 0; d < b.length; d++) c = b[d], c.enumerable = c.enumerable || !1, c.configurable = !0, "value" in c && (c.writable = !0), Object.defineProperty(a, c.key, c)
-    }
-
-    function _createClass(a, b, c) {
-      return b && _defineProperties(a.prototype, b), c && _defineProperties(a, c), a
-    }
-
-    function _defineProperty(a, b, c) {
-      return b in a ? Object.defineProperty(a, b, {
-        value: c,
-        enumerable: !0,
-        configurable: !0,
-        writable: !0
-      }) : a[b] = c, a
-    }
-    document.ccd_cookie_hijacker = new( /*#__PURE__*/ function() {
-      function a(b) {
-        var c = this;
-        _classCallCheck(this, a), _defineProperty(this, "allow_all_cookies", function() {
-          for (var a in c.blocked_queue) c.console_log_allow(a), c.real_set_cookie(a, c.blocked_queue[a]);
-          delete document.cookie, c.remove_cookie_ui(), "undefined" != typeof cp.track_event && cp.track_event("Cookie Consent", "Accepted"), c.set_cookie_pref(1, 30)
-        }), _defineProperty(this, "block_cookies_permanently", function() {
-          c.remove_cookie_ui(), "undefined" != typeof cp.track_event && cp.track_event("Cookie Consent", "Denied"), c.set_cookie_pref(0, 1)
-        }), this.cookies = [], this.blocked_queue = [], this.allow_list = b, this.attach()
-      }
-      return _createClass(a, [{
-        key: "get_cookies",
-        value: function get_cookies() {
-          if ("" != document.cookie)
-            for (var a, b = document.cookie.split(";"), c = 0; c < b.length; c++) a = b[c].split("="), this.cookies[a[0].trim()] = b[c];
-          return this.cookies
-        }
-      }, {
-        key: "get_all_cookie_keys",
-        value: function get_all_cookie_keys() {
-          var a = [];
-          if ("" != document.cookie)
-            for (var b, c = document.cookie.split(";"), d = 0; d < c.length; d++) b = c[d].split("="), a.push(b[0].trim());
-          for (var e in this.blocked_queue) a.push(e);
-          return a
-        }
-      }, {
-        key: "cookie_get_method",
-        value: function cookie_get_method() {
-          var a = [];
-          for (var b in document.ccd_cookie_hijacker.get_current_cookies()) {
-            var c = document.ccd_cookie_hijacker.get_current_cookies()[b].split(";");
-            a.push(c[0])
-          }
-          for (var b in document.ccd_cookie_hijacker.get_blocked_cookies()) {
-            var c = document.ccd_cookie_hijacker.get_blocked_cookies()[b].split(";");
-            a.push(c[0])
-          }
-          return a.join("; ")
-        }
-      }, {
-        key: "cookie_set_method",
-        value: function cookie_set_method(a) {
-          document.ccd_cookie_hijacker.set_new_cookie(a)
-        }
-      }, {
-        key: "get_current_cookies",
-        value: function get_current_cookies() {
-          return this.cookies
-        }
-      }, {
-        key: "get_blocked_cookies",
-        value: function get_blocked_cookies() {
-          return this.blocked_queue
-        }
-      }, {
-        key: "set_new_cookie",
-        value: function set_new_cookie(a) {
-          var b = a.split("="),
-            c = b[0].trim();
-          return -1 === this.allow_list.indexOf(c) ? (this.console_log_block(c), void(this.blocked_queue[c] = a)) : void(this.console_log_allow(c), this.real_set_cookie(c, a))
-        }
-      }, {
-        key: "real_set_cookie",
-        value: function real_set_cookie(a, b) {
-          "undefined" != typeof a && (this.cookies[a] = b, delete document.cookie, document.cookie = this.cookies[a], this.attach())
-        }
-      }, {
-        key: "attach",
-        value: function attach() {
-          this.cookies = this.get_cookies(), Object.defineProperty ? Object.defineProperty(document, "cookie", {
-            configurable: !0,
-            enumerable: !0,
-            get: this.cookie_get_method,
-            set: this.cookie_set_method
-          }) : (document.__defineGetter__("cookie", cookie_get_method), document.__defineSetter__("cookie", cookie_set_method))
-        }
-      }, {
-        key: "console_log_allow",
-        value: function console_log_allow(a) {
-          CPO_DEBUG && console.info("%cccd_cookie_bar.js allowing: " + a, "padding: 3px; color:#FFF; background-color: #7fa830")
-        }
-      }, {
-        key: "console_log_block",
-        value: function console_log_block(a) {
-          CPO_DEBUG && console.warn("%cccd_cookie_bar.js blocking: " + a, "padding: 3px; color:#FFF; background-color: #ec802f")
-        }
-      }, {
-        key: "get_cookie",
-        value: function get_cookie(a) {
-          var b = "; " + document.cookie,
-            c = b.split("; " + a + "=");
-          if (2 === c.length) return c.pop().split(";").shift()
-        }
-      }, {
-        key: "remove_cookie_ui",
-        value: function remove_cookie_ui() {
-          var a = document.getElementById("ccd_cookie_bar");
-          a.parentNode.removeChild(a);
-          var b = document.getElementById("ccd_cookie_info_popup");
-          b && b.parentNode.removeChild(b)
-        }
-      }, {
-        key: "set_cookie_pref",
-        value: function set_cookie_pref(a, b) {
-          var c = new Date;
-          c.setTime(c.getTime() + 864e5 * b);
-          var d = ["essential_ccd_cookie_pref=" + a, "expires=" + c.toUTCString(), "path=" + CP_ROOT].join("; ");
-          document.cookie = d
-        }
-      }]), a
-    }())(ccd_cookie_allow_list);
-
-    function ccd_show_cookie_bar() {
-      if ("0" !== document.ccd_cookie_hijacker.get_cookie("essential_ccd_cookie_pref")) {
-        document.body.insertAdjacentHTML("beforeend", ccd_cookie_bar_html);
-        var a = document.getElementById("ccd_cookie_bar_btn_accept_desktop"),
-          b = document.getElementById("ccd_cookie_bar_btn_accept_mobile"),
-          c = document.getElementById("ccd_cookie_bar_btn_info_desktop"),
-          d = document.getElementById("ccd_cookie_bar_btn_info_mobile");
-        a.addEventListener("click", document.ccd_cookie_hijacker.allow_all_cookies), b.addEventListener("click", document.ccd_cookie_hijacker.allow_all_cookies), c.addEventListener("click", ccd_show_cookie_bar_info), d.addEventListener("click", ccd_show_cookie_bar_info)
-      }
-    }
-
-    function ccd_show_cookie_bar_info() {
-      document.body.insertAdjacentHTML("beforeend", ccd_cookie_info_popup_html);
-      var a = new XMLHttpRequest;
-      a.onreadystatechange = function() {
-        if (4 == a.readyState && 200 == a.status) {
-          document.getElementById("ccd_cookie_info_popup").classList.remove("loading"), document.getElementById("ccd_cookie_info_popup_info_wrapper").innerHTML = a.responseText;
-          var b = document.getElementById("ccd_cookie_info_popup_btn_accept");
-          b.addEventListener("click", document.ccd_cookie_hijacker.allow_all_cookies);
-          var c = document.getElementById("ccd_cookie_info_popup_btn_deny");
-          1 == document.getElementById("ccd_cookie_info_includes_non_essential").value ? c.addEventListener("click", document.ccd_cookie_hijacker.block_cookies_permanently) : c.parentNode.removeChild(c)
-        }
-      }, a.open("POST", "cp_cookie_bar.php", !0), a.setRequestHeader("Content-type", "application/json"), a.send(JSON.stringify({
-        mode: "get_cookie_info_html",
-        cookie_keys: document.ccd_cookie_hijacker.get_all_cookie_keys(),
-        origin_url: location.href
-      }))
-    } // Check if the DOMContentLoaded has already been completed
-    "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", ccd_show_cookie_bar) : ccd_show_cookie_bar();
-  </script>
   <!-- <link rel="preload" href="style/fonts/codropsicons/codropsicons.ttf" as="font" type="font/ttf" crossorigin="anonymous">
 <link rel="preload" href="style/fonts/md-icons.ttf" as="font" type="font/ttf" crossorigin="anonymous">
 <link rel="preload" href="style/fonts/MyriadPro-Bold.ttf" as="font" type="font/ttf" crossorigin="anonymous">
@@ -592,224 +427,141 @@
 
     <!-- Begin Desktop Header HTML -->
     <!-- Begin Desktop Header HTML -->
-    <div class="header-push"></div>
-    <div class="header">
+    <!-- <div class="header-push"></div>
+    <div class="header"> -->
 
 
-      <style>
-        .cp-announcement {
-          width: 100%;
-          background-color: #008bdc;
-          text-align: center;
-        }
+    <style>
+      .cp-announcement {
+        width: 100%;
+        background-color: #008bdc;
+        text-align: center;
+      }
 
-        .cp-announcement a {
+      .cp-announcement a {
+        display: block;
+        padding: 10px;
+      }
+
+      .cp-announcement a:hover {
+        opacity: 1;
+      }
+
+      .cp-announcement a:hover p {
+        text-decoration: underline;
+      }
+
+      .cp-announcement p {
+        margin: 0;
+        color: #FFF;
+      }
+
+      .nav-item:hover .nav-link {
+        color: blue !important;
+      }
+
+      .nav-item {
+        font-size: 20px;
+        font-weight: 500;
+      }
+
+      .nav-item:hover .dropdown-menu {
+
+        transition: all 0.5s ease-in-out;
+        
+        border-radius: 0;
+        
+        border-top: 2px solid blue;
+        
+      }
+
+
+      @media (min-width: 768px) {
+        .nav-item:hover .dropdown-menu {
           display: block;
-          padding: 10px;
+          border-radius: 0;
+          /* Remove border radius */
+          border-top: 2px solid blue;
+          /* Add border line at the top */
         }
+      }
+    </style>
 
-        .cp-announcement a:hover {
-          opacity: 1;
-        }
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" style="height: 100px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+      <div class="container-fluid">
 
-        .cp-announcement a:hover p {
-          text-decoration: underline;
-        }
+        <a class="navbar-brand ms-5" href="#"><img class="header-logo" src="style/images/Access_Coins_Dark.png" alt="COINS - Construction Industry Solutions Logo" width="136px">
+        </a>
+        <a class="navbar-toggler" style="border: 0; cursor: pointer;" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </a>
 
-        .cp-announcement p {
-          margin: 0;
-          color: #FFF;
-        }
-      </style>
-      <div class="header-row small">
-        <div class="header-row-left custom-links">
-          <ul>
-            <li class="header-cell">
-              <p><a href="solutions/47/index.php">COINS Construction Cloud</a></p>
-            </li>
-            <li class="header-cell">
-              <p><a href="solutions/overview/2756/index.php">COINS SureStart</a></p>
-            </li>
-          </ul>
-          <div style="clear:both;"></div>
-        </div>
-        <div class="header-row-right">
-          <div class="client-area header-cell ">
-
-
-            <p><a href="login/index.php">Client Area</a></p>
-
+        <!-- Offcanvas Navbar for small screens -->
+        <div class="offcanvas offcanvas-end text-bg-light" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+          <div class="offcanvas-header me-4">
+            <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel"><img class="header-logo" src="style/images/Access_Coins_Dark.png" alt="COINS - Construction Industry Solutions Logo" width="136px"> </h5>
+            <a class="btn-close btn-close-dark" style="cursor: pointer;" data-bs-dismiss="offcanvas" aria-label="Close"></a>
           </div>
-          <div class="header-tel header-cell">
-            <a href="tel:+44 1753 501000">
-              <p>+44 1753 501000</p>
-            </a>
-          </div>
-          <div class="header-search header-cell">
-            <form id="pagetopSiteSearchForm" method="post" action="cp_search.php" class="siteSearch">
-              <input name="cSearch" type="text" id="search" placeholder="Search" value="" />
-            </form>
-          </div>
-          <div class="email-icon header-cell">
-            <a href="mailto:info@coinsinvestment.io"></a>
-          </div>
-          <div class="btnNew flat orange bub"><a href="bookademo/s166026/index.php">
-              <p>See Software in Action</p>
-            </a></div>
-          <ul class="language-picker header-cell">
-            <ul class="cpLanguagePicker">
-              <li class=" on hasTranslation langID-1999"><a href="https://www.coinsinvestment.io/">UK & IE</a></li>
-              <li class=" hasTranslation langID138"><a href="https://www.coinsinvestment.io/us/">USA</a></li>
-              <li class=" hasTranslation langID140"><a href="https://www.coinsinvestment.io/apac/">Australia</a></li>
-              <li class=" hasTranslation langID3050"><a href="https://www.coinsinvestment.io/uaen/">Middle East</a></li>
-            </ul>
-
-          </ul>
-        </div>
-      </div>
-      <div class="header-row">
-        <div class="header-row-left">
-          <a href="https://www.coinsinvestment.io/">
-            <img class="header-logo" src="style/images/Access_Coins_Dark.png" alt="COINS - Construction Industry Solutions Logo" width="136px"> </a>
-        </div>
-        <div class="header-row-right">
-          <!--standard pagetop menu start -->
-          <ul class="pageTopDivMenu">
-            <li class="pagetopMenuItemCpiId21 pagetopMenuItemTopLevel" id="pagetopMenuItem1"><a href='index.php'>Home</a></li>
-            <li class="pagetopMenuItemCpiId21 pagetopMenuItemTopLevel" id="pagetopMenuItem1"><a href='pricing.php'>Pricing</a></li>
-            <li class="pagetopMenuItemCpiId1940 pagetopMenuItemTopLevel" id="pagetopMenuItem2"><a href='company/about-coins/1939/index.php'>Company</a></li>
-            <li class="pagetopMenuItemCpiId47 pagetopMenuItemTopLevel" id="pagetopMenuItem3"><a href='solutions/47/index.php'>Solutions</a></li>
-            <li class="pagetopMenuItemCpiId3021 pagetopMenuItemTopLevel" id="pagetopMenuItem4"><a href='case-studies/3021/index.php'>Case Studies</a></li>
-            <li class="pagetopMenuItemCpiId1997 pagetopMenuItemTopLevel" id="pagetopMenuItem5"><a href='services/overview/1992/index.php'>Services</a></li>
-            <li class="pagetopMenuItemCpiId49 pagetopMenuItemTopLevel" id="pagetopMenuItem6"><a href='blog/49/index.php'>Blog</a></li>
-            <li class="pagetopMenuItemCpiId50 pagetopMenuItemTopLevel" id="pagetopMenuItem7"><a href='contact/50/index.php'>Contact</a></li>
-            <li class="pagetopMenuItemCpiId8 pagetopMenuItemTopLevel" id="pagetopMenuItem8"><a href='login/index.php'>Client Area</a></li>
-          </ul>
-          <!--standard pagetop menu end -->
-
-        </div>
-      </div>
-
-    </div>
-
-    <div class="header-submenus">
-      <div class="submenu megaMenu" id="submenu47">
-        <div class="megaMenuContents">
-          <div class="column column1 colours-on">
-            <h3>Solutions</h3>
-            <ul class="links vertical">
-              <li class="order1 cpiID3772"> <a href="solutions/project-delivery/3772/index.php">
-                  <div class="colour-highlight" style="background-color: #009978"></div> Project Delivery
-                </a> </li>
-              <li class="order2 cpiID3771"> <a href="solutions/finance-and-operations/3771/index.php">
-                  <div class="colour-highlight" style="background-color: #4197cb"></div> Finance and Operations
-                </a> </li>
-              <li class="order3 cpiID3773"> <a href="solutions/time-management/3773/index.php">
-                  <div class="colour-highlight" style="background-color: #FFBF3C"></div> Time Management
-                </a> </li>
-              <li class="order4 cpiID2985"> <a href="solutions/supply-chain-management/2985/index.php">
-                  <div class="colour-highlight" style="background-color: #9164cc"></div> Supply Chain Management
-                </a> </li>
-              <li class="order5 cpiID2000"> <a href="solutions/service-management/2000/index.php">
-                  <div class="colour-highlight" style="background-color: #2ed9c3"></div> Service Management
-                </a> </li>
-            </ul>
-          </div>
-          <div class="submenu-column-divider"></div>
-          <div class="column column2 ">
-            <h3>By Industry</h3>
-            <ul class="links vertical">
-              <li class="order1 cpiID2994"> <a href="solutions/industry-general-contracting/2994/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> General Contracting
-                </a> </li>
-              <li class="order2 cpiID2997"> <a href="solutions/industry-mep/2997/index.php">
-                  <div class="colour-highlight" style="background-color: #000000"></div> Mechanical & Electrical
-                </a> </li>
-              <li class="order3 cpiID2993"> <a href="solutions/industry-specialist-contracting/2993/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Specialist Contracting
-                </a> </li>
-              <li class="order4 cpiID2996"> <a href="solutions/industry-civil-engineering/2996/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Civil Engineering
-                </a> </li>
-              <li class="order5 cpiID2995"> <a href="solutions/industry-homebuilding/2995/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Homebuilding
-                </a> </li>
-              <li class="order6 cpiID2184"> <a href="solutions/design-and-bim-overview/2184/index.php">
-                  <div class="colour-highlight" style="background-color: #009777"></div> Design and BIM
-                </a> </li>
-            </ul>
-            <div class="submenu-spotlight" style="background-image: url('storage/images/Operational Efficiency.jpg');"> <a href="contact/50/index.php">
-                <p>Spotlight</p>
-                <p class="title">Contact COINS</p>
-              </a></div>
-          </div>
-        </div>
-      </div>
-      <div class="submenu megaMenu" id="submenu1997">
-        <div class="megaMenuContents">
-          <div class="column column1 ">
-            <ul class="links vertical">
-              <li class="order2 cpiID1993"> <a href="services/delivery/1993/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Delivery
-                </a> </li>
-              <li class="order3 cpiID1994"> <a href="services/technical/1994/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Technical
-                </a> </li>
-              <li class="order4 cpiID1995"> <a href="services/training/1995/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Training
-                </a> </li>
-              <li class="order5 cpiID1996"> <a href="services/consulting/1996/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Consulting
-                </a> </li>
-              <li class="order6 cpiID2212"> <a href="services/support/2212/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Support
-                </a> </li>
-            </ul>
-            <div class="submenu-spotlight" style="background-image: url('storage/images/graphic_before_after.jpg');"> <a href="contact/50/index.php">
-                <p>Spotlight</p>
-                <p class="title">Request More Information</p>
-              </a></div>
-          </div>
-        </div>
-      </div>
-      <div class="submenu megaMenu" id="submenu1940">
-        <div class="megaMenuContents">
-          <div class="column column1 ">
-            <ul class="links vertical">
-              <li class="order1 cpiID1939"> <a href="company/about-coins/1939/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> About COINS
-                </a> </li>
-              <li class="order3 cpiID1938"> <a href="company/global-locations/1938/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Global Locations
-                </a> </li>
-              <li class="order4 cpiID56"> <a href="company/careers/56/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Careers
-                </a> </li>
-              <li class="order5 cpiID3791"> <a href="company/security/3791/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Security
-                </a> </li>
-              <li class="order6 cpiID2792"> <a href="company/policies/2792/index.php">
-                  <div class="colour-highlight" style="background-color: #"></div> Policies
-                </a> </li>
+          <div class="offcanvas-body">
+            <ul class="navbar-nav justify-content-center flex-grow-1 ps-4 pe-5">
+              <li class="nav-item">
+                <a class="nav-link text-dark" aria-current="page" href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="company/about-coins/1939/index.php">About Us</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-dark" href="" role="button" id="navbarDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                  Services
+                </a>
+                <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarDropdown" style="background-color: #fff;">
+                  <li><a class="dropdown-item text-dark " href="services/overview/1992/index.php">Overview</a></li>
+                  <li><a class="dropdown-item text-dark" href="services/delivery/1993/index.php">Delivery</a></li>
+                  <li><a class="dropdown-item text-dark" href="services/technical/1994/index.php">Technical</a></li>
+                  <li><a class="dropdown-item text-dark" href="services/training/1995/index.php">Training</a></li>
+                  <li><a class="dropdown-item text-dark" href="services/consulting/1996/index.php">Consulting</a></li>
+                  <li><a class="dropdown-item text-dark" href="services/support/2212/index.php">Support</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-dark" href="" role="button" id="navbarDropdown2" data-bs-toggle="dropdown" aria-expanded="false">
+                  Solutions
+                </a>
+                <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarDropdown2" style="background-color: #fff;">
+                  <li><a class="dropdown-item text-dark" href="solutions/47/index.php">Overview</a></li>
+                  <li><a class="dropdown-item text-dark" href="solutions/project-delivery/3772/index.php">Project Delivery</a></li>
+                  <li><a class="dropdown-item text-dark" href="solutions/finance-and-operations/3771/index.php">Finance and Operations</a></li>
+                  <li><a class="dropdown-item text-dark" href="solutions/time-management/3773/index.php">Time Management</a></li>
+                  <li><a class="dropdown-item text-dark" href="solutions/supply-chain-management/2985/index.php">Supply Chain Management</a></li>
+                  <li><a class="dropdown-item text-dark" href="solutions/service-management/2000/index.php">Service Management</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="pricing.php">Pricing</a>
+              </li>
+              <li class="nav-item me-5">
+                <a class="nav-link text-dark" href="contact/50/index.php">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light p-2" style="background-color: orange; font-size: 13px; width:85px; margin-top: 5px;" href="login/index.php">JOIN NOW</a>
+              </li>
+              <!-- <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Dropdown
+        </a>
+        <ul class="dropdown-menu dropdown-menu-light bg-light">
+          <li><a class="dropdown-item text-dark" href="#">Action</a></li>
+          <li><a class="dropdown-item text-dark" href="#">Another action</a></li>
+          <li>
+            <hr class="dropdown-divider">
+          </li>
+          <li><a class="dropdown-item text-dark" href="#">Something else here</a></li>
+        </ul>
+      </li> -->
             </ul>
           </div>
         </div>
       </div>
-    </div>
+    </nav>
 
-<script>
-    // Get the current page's URL
-    var currentPage = window.location.href;
-
-    // Get all the anchor tags in the pageTopDivMenu
-    var menuItems = document.querySelectorAll('.pageTopDivMenu a');
-
-    // Iterate through each menu item
-    menuItems.forEach(function(item) {
-        // Check if the item's href matches the current page's URL
-        if (item.href === currentPage) {
-            // Add the "on" class to highlight the active menu item
-            item.parentNode.classList.add('on');
-        }
-    });
-</script>
+  </div>

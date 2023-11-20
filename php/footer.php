@@ -117,7 +117,7 @@
                 <p class="footTitle">News</p>
               </li>
               <li>
-                <a href="blog/5-reasons-to-choose-coins-financial-management-software/bp909/" class="lineEx">
+                <a href="blog/5-reasons-to-choose-coins-financial-management-software/bp909/index.php" class="lineEx">
                   5 Reasons to Choose COINS Financial Management Software </a>
               </li>
               <li>
@@ -538,6 +538,7 @@
   <div class="jqueryPopupBG" id="jqueryPopupBG"></div>
   <div class="jqueryPopup" id="jqueryPopup"></div>
    <!-- include javascript -->
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   <script src="scripts/fastclick.js?m=1417515804" data-ot-ignore=""></script>
   <script src="scripts/submenu.js?m=1592392756" data-ot-ignore=""></script>
   <script src="scripts/lightslider.js?m=1491663119" data-ot-ignore=""></script>

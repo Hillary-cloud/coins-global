@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/coinsinvestment.io/"> -->
+﻿<!-- <base href="http://coinsinvestment.io/"> -->
 <?php include('../php/header.php'); ?>
 
 <div id="cpHeader" class="cpHeader ">

@@ -1,4 +1,4 @@
-﻿<!-- <base href="http://localhost/www.coinsinvestment.io/"> -->
+﻿<!-- <base href="http://coinsinvestment.io/"> -->
 <?php include('../../php/header.php'); ?>
 <!-- End Desktop Header HTML -->
 
